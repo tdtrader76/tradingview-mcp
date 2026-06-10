@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "tradingview": {
+      "command": "node",
+      "args": ["C:/Users/oscar/Documents/LLMWIKI/tradingview-mcp/src/server.js"],
+      "env": {}
+    }
+  }
+}
